@@ -65,7 +65,16 @@ Region: Southeast
 ```
 
 ## Screenshots
-<img width="1813" height="918" alt="image" src="https://github.com/user-attachments/assets/a6298c43-503b-4a85-bf72-2f61b97b6dbb" />
+
+### Step 1
+<img width="1868" height="908" alt="image" src="https://github.com/user-attachments/assets/52ff5969-142b-4702-a368-77b122a30464" />
+
+### Step 2
+<img width="1860" height="897" alt="image" src="https://github.com/user-attachments/assets/42bad57c-60d3-494d-a240-626acce73056" />
+
+### Step 3
+<img width="1878" height="895" alt="image" src="https://github.com/user-attachments/assets/d7409201-9d8b-44ef-95be-540d693d4a67" />
+
 
 ## Future Improvements
 Add visualization for feature contributions
